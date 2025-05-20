@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'bahnschrift';
+    src: url('https://github.com/KimViolin/elements/raw/refs/heads/main/bahnschrift.woff2') format('woff2'),
+         url('https://github.com/KimViolin/elements/raw/refs/heads/main/bahnschrift-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
